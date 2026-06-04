@@ -3,6 +3,11 @@
 
 **BioSift** is a machine learning-powered molecular screening application that predicts whether a small molecule is likely to be biologically active or inactive based on physicochemical descriptors.
 
+## Live Application
+
+Streamlit App:
+https://biosift.streamlit.app/
+
 ## Features
 
 * Bioactivity prediction using machine learning
