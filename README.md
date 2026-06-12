@@ -3,6 +3,11 @@
 
 **BioSift** is a machine learning-powered molecular screening application that predicts whether a small molecule is likely to be biologically active or inactive based on physicochemical descriptors.
 
+## Data Source
+https://ftp.ncbi.nlm.nih.gov/pubchem/Bioassay/CSV/   (PubChem BioAssay FTP Directory)
+https://ftp.ncbi.nlm.nih.gov/pubchem/Bioassay/CSV/Data/ (BioAssay Data Files)
+
+
 ## Live Application
 
 Streamlit App:
@@ -47,6 +52,8 @@ streamlit run app.py
 
 This project demonstrates how machine learning can be applied to molecular descriptor data to support early-stage virtual screening and bioactivity prediction.
 
+## Project Video and Deploymnet
+https://canva.link/dk4lo8jvfs2yamq
 
 ## Author
 
